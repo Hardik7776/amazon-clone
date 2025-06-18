@@ -14,4 +14,4 @@ Responsive product sections with placeholders
 Footer section with links
 
 Header search bar (non-functional, for layout only)
-# amazon-clone
+
